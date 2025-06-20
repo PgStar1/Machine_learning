@@ -48,9 +48,6 @@ This part focuses on implementing and analyzing logistic regression using variou
 ---
 
 ## 📊 Key Outputs
-
-- **Confusion Matrix** visualizing model performance  
-  ![Confusion Matrix](images/conf_matrix.png)
 - Plots showing convergence of cost functions, coefficient behavior, and decision boundaries
 
 ---
@@ -58,8 +55,6 @@ This part focuses on implementing and analyzing logistic regression using variou
 ## 📁 Project Files
 
 - `Notebook_MPHY0041_2425_CW1.ipynb`: Core analysis notebook
-- `Dementia_train.csv`: Training dataset used for classification (assumed)
-- `images/conf_matrix.png`: Visualization output from model evaluation
 
 ---
 
